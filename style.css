@@ -1,0 +1,183 @@
+body{
+    background-color:orchid;
+}
+
+#button_play{
+background-color:lightgreen;
+height: 100px;
+width: 150px;
+font-size: 40px;
+}
+
+#button_study{
+    background-color:lightcoral;
+    height: 100px;
+    width: 150px;
+    font-size: 40px;
+    }
+
+    #button_shopping{
+        background-color:lightskyblue;
+        height: 100px;
+        width: 226px;
+        font-size: 40px;
+        }
+
+        #button_home{
+            background-color:pink;
+            height: 80px;
+            width: 100px;
+            font-size: 23px;
+            margin-left: 40px;
+            }
+            #i_q_test{
+                background-color:pink;
+                height: 80px;
+                width: 100px;
+                font-size: 23px;
+                margin-left: 40px;
+                }
+            
+    #line{
+margin-right: 60px;
+padding-right: 60px;
+            }
+
+            #name{
+                height: 50px;
+                width: 300px;
+                text-align: center;
+                background-color: lightpink;
+                color: brown;
+                margin-top: 20px;
+                font-size: 30px;
+            }
+
+            #div_name{
+                background-color: white;
+                height: 100px;
+                width: 500px;
+                text-align: center;
+                border: 20px;
+                border-radius: 20px;
+                border-color: aqua;
+            }
+            #age{
+                height: 50px;
+                width: 300px;
+                text-align: center;
+                background-color: lightpink;
+                color: brown;
+                margin-top: 20px;
+                font-size: 30px;
+            }
+
+            #div_age{
+                background-color: white;
+                height: 100px;
+                width: 500px;
+                text-align: center;
+                border: 20px;
+                border-radius: 20px;
+                border-color: aqua;
+            }
+            #class{
+                height: 50px;
+                width: 300px;
+                text-align: center;
+                background-color: lightpink;
+                color: brown;
+                margin-top: 20px;
+                font-size: 30px;
+            }
+
+            #div_class{
+                background-color: white;
+                height: 100px;
+                width: 500px;
+                text-align: center;
+                border: 20px;
+                border-radius: 20px;
+                border-color: aqua;
+            }
+            #qualification{
+                height: 50px;
+                width: 360px;
+                text-align: center;
+                background-color: lightpink;
+                color: brown;
+                margin-top: 20px;
+                font-size: 30px;
+            }
+
+            #div_qualification{
+                background-color: white;
+                height: 100px;
+                width: 500px;
+                text-align: center;
+                border: 20px;
+                border-radius: 20px;
+                border-color: aqua;
+            }
+            #city{
+                height: 50px;
+                width: 360px;
+                text-align: center;
+                background-color: lightpink;
+                color: brown;
+                margin-top: 20px;
+                font-size: 30px;
+            }
+
+            #div_city{
+                background-color: white;
+                height: 100px;
+                width: 500px;
+                text-align: center;
+                border: 20px;
+                border-radius: 20px;
+                border-color: aqua;
+            }
+
+           
+                .i.q_test_button{
+                    background-color:pink;
+            height: 80px;
+            width: 100px;
+            font-size: 23px;
+            margin-left: 40px;
+             }
+
+             #special {
+                background-color: bisque;
+                margin: 2%;
+                text-align: center;
+            }
+            .img_1 {
+              height: 220px;
+              width: 300%;
+              position: left;
+            }
+            h1 {
+              text-align: center;
+        color:crimson;
+            }
+            
+              img {
+              height:230px;
+              width:26
+                0px;
+              margin:20px;;
+              border:5px;
+              border-style:solid;
+              border-color:black;
+            
+            }
+            
+            h2{
+            color:blue;
+            }
+
+            h3{
+                color:firebrick;
+            }
